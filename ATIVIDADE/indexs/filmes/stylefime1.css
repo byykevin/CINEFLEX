@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(43, 43, 43);
+}
+
+#arrumar{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+#arrumar #thumb{
+    border-radius: 10px;
+    height: 370px;
+}
+
+:hover #thumb{
+    width: 260px;
+}
+
+#arrumar #titulo{
+    color: aliceblue;
+}
+
+#arrumar #titulo a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+:hover #arrumar #titulo a{
+    font-size: 15px;
+}
+
+:hover body{
+    background-color: rgb(86, 87, 87);
+}
+
