@@ -1,0 +1,12 @@
+body {
+    background: #000000;
+    font-family: Arial;
+}
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background: rgb(31, 31, 31);
+    border-radius: 10px;
+}

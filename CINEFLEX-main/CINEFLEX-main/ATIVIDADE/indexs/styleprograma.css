@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.filme {
+    background: #222;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(22, 22, 22, 0.3);
+}
+
+:hover.filme{
+    background-color: #525252;
+}
+
+.filme h2 {
+    color: #fff;
+}
+
+.horarios {
+    margin-top: 10px;
+}
+
+.horario {
+    display: inline-block;
+    background: #1f1f1f;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+:hover#filme1{
+    background-color: aqua;
+}
